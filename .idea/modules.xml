@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/greeter-library/greeter-library.iml" filepath="$PROJECT_DIR$/greeter-library/greeter-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greeter-spring-boot-autoconfigure/greeter-spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/greeter-spring-boot-autoconfigure/greeter-spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greeter-spring-boot-sample-app/greeter-spring-boot-sample-app.iml" filepath="$PROJECT_DIR$/greeter-spring-boot-sample-app/greeter-spring-boot-sample-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greeter-spring-boot-starter/greeter-spring-boot-starter.iml" filepath="$PROJECT_DIR$/greeter-spring-boot-starter/greeter-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-custom-starter.iml" filepath="$PROJECT_DIR$/spring-boot-custom-starter.iml" />
+    </modules>
+  </component>
+</project>
